@@ -1,6 +1,6 @@
 # Receipt Processor API
 
-A simple API for processing receipts and awarding points based on specific rules.
+A simple API for processing receipts and awarding points based on specific rules developed as part of the Fetch receipt processor challenge.
 
 ## Steps to Run the App
 
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ### 3. Run the App
 
-Start the FastAPI application using Uvicorn:
+Start the FastAPI:
 
 ```sh
 fastapi dev main.py
